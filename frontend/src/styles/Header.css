@@ -1,0 +1,58 @@
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: #ce0505;
+    color: white;
+}
+
+.s-logo {
+    text-align: center;
+    font-size: 25px;
+    color: #ce0505;
+    background: white;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    position: absolute;
+    top: 1%;
+    margin-left: 2%;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.login-block {
+    /* float: right; */
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+.login {
+    margin: 10px;
+    font-weight: bold;
+    width: 25px;
+    position: absolute;
+    /* right: 500px; */
+    left: 1060px;
+    bottom: -3px;
+}
+
+.signUp {
+    font-weight: bold;
+    border: solid 1px white;
+    padding: 3px;
+    height: 35px;
+    width: 140px;
+    float: right;
+    position: relative;
+    left: 1150px;
+}
+
+
+@media only screen and (min-width: 600px) and (max-width: 1150px) {
+    .login{
+        left: 450px;
+    }
+    .signUp{
+        left: 510px;
+    }
+}

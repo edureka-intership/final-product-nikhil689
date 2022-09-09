@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "KFC",
+        "City": "Mumbai"
+    },
+    {
+        "id": 2,
+        "name": "Domino",
+        "City": "New Delhi"
+    },
+    {
+        "id": 3,
+        "name": "Kaka Da Dhaba",
+        "City": "Punjab"
+    },
+    {
+        "id": 4,
+        "name": "Pizza Hut",
+        "City": "Mumbai"
+    },
+    {
+        "id": 5,
+        "name": "Sadhana misal",
+        "City": "nashik"
+    },
+    {
+        "id": 6,
+        "name": "Paratha House",
+        "City": "Sakri"
+    }
+]
